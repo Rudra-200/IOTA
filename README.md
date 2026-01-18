@@ -2,7 +2,7 @@
 
 PrismX is a production-grade, end-to-end Legal AI Assistant designed for Indian law.
 It uses a Hybrid RAG architecture combining dense vector search and a Cache-Augmented Generation (CAG) layer.
-(DEMO)[https://drive.google.com/drive/folders/1lhRU69krTxgMOfo-ETYth_EhKDyUzZ02]
+[**DEMO**](https://drive.google.com/drive/folders/1lhRU69krTxgMOfo-ETYth_EhKDyUzZ02)
 
 ## 🚀 Key Features
 - Hybrid retrieval engine with CAG and RAG.
